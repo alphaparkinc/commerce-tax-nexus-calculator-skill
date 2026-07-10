@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "name": "commerce-tax-nexus-calculator-skill",
+  "name": "genpark-commerce-tax-nexus-calculator-skill",
   "outputs": {
     "result_val": {
       "type": "string"
